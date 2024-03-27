@@ -41,9 +41,11 @@ This project is a web application for a clothing store that allows users to regi
 - Once registered, users can log in securely using their credentials.
 - After logging in, users can browse products, contact the store, and perform other actions.
 
-### image of home:
+---
+### images of home:
 
-![alt text](https://github.com/NimaAhmadi79/Passport-OCR/blob/master/images%20for%20readme/1.PNG)
+![alt text](https://github.com/NimaAhmadi79/Clothing-store-website/blob/master/images%20of%20website/1.PNG)
+![alt text](https://github.com/NimaAhmadi79/Clothing-store-website/blob/master/images%20of%20website/2.PNG)
 
 ---
 
