@@ -53,3 +53,7 @@ This project is a web application for a clothing store that allows users to regi
 
 - Nima Ahmadi
 
+### Contact:
+
+- For any inquiries, please contact Nima87760@gmail.com.
+
